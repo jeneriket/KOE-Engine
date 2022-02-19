@@ -1,6 +1,6 @@
 # KOE-Engine
 (Knights of Eyres Engine)
-Set of scripts for making an Open Worl RPG in the style of Chrono Trigger for Unity!
+Set of scripts for making an Open World RPG in the style of Chrono Trigger for Unity!
 Used for the game I am working on - Knights of Eyres.
 
 ## Warning! This engine is for coders familiar with Unity
